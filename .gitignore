@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+
+# so this doesnt bite me in the ass later and so i dont have another leak
+# ignore ALL json files
+*.json
